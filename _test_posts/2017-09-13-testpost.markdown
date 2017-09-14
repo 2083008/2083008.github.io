@@ -2,7 +2,7 @@
 layout: post
 title:  "Unblocking the Blockchain"
 date:   2017-09-11 20:22:36 +0200
-categories: electronics
+categories: jekyll update
 ---
 Lorem ipsum heres some blockchain
 
