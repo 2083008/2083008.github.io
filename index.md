@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-<strong>TEST</strong>
+<strong>Welcome</strong>
