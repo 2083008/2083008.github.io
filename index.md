@@ -7,3 +7,4 @@ layout: home
 
 
 <strong>Welcome</strong>
+test
