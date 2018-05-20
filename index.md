@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Here are some recent posts from the blog. Check out [Portfolio](/portfolio/) for a list of projects that have been worked one.
+Here are some recent posts from my blog. Check out [Portfolio](/portfolio/) for a list of projects that have been worked one.
