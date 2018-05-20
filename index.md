@@ -5,6 +5,4 @@
 layout: home
 ---
 
-
-<strong>Welcome</strong>
-test
+Here are some recent posts from the blog. Check out [Portfolio](/portfolio/) for a list of projects that have been worked one.
