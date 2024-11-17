@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "30 before 30"
+date:   2024-11-10 06:17:35 +0000
+categories: jekyll update
+---
+30 Before 30:
+
+What is it?
+
+Why?
+
+My list:
+
+1.  Muscle Up
+
+2.  Make a knife
+
+3.  Build a wood workbench
+
+4.  Climb Sgurr Alasdair
+
+5.  Read Moby Dick
+
+6.  Run a marathon
+
+7.  Snatch 120, C+J 150
+
+8.  Squat 220, Bench 140, Dead 230
+
+9.  Finish Back garden project
+
+10. See an opera
+
+11. Single Digit Handicap
+
+1. Play 4 new golf courses
+    
+
+12. Finish garage project
+
+13. Build a bike frame
+
+14. Learn CAD
+
+15. 1700 Chess puzzles
+
+16. 1 weekend/month no tech
+
+17. Do a long cycle (1day)
+
+18. Make Noodles
+
+19. [Make a 3 course dinner]({% post_url 2024-11-11-3courseDinner %})
+    
+20. Learn piece on flute and guitar
+
+21. Dunk a basketball
+
+22. Martial art
+
+23. Handstand pushup/Pistol squat
+
+24. Make moonshine
+
+25. Redecorate understairs cupboard
+
+26. Declutter
+
+27. Meditate everyday
+
+28. Finish 12 Books
+
+29. Blog this list
